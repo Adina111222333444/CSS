@@ -84,18 +84,3 @@ place-self: center;
     place-items: center;
 
 }
-.demo{
-     background: lightpink;
-    height: 50px;
-    width: 200px;
-    padding: 50px;
-    padding-top: 100px;
-    padding-right: 90px;
-    padding-left: 120px; 
-    margin: 20px auto;
-    border: 10px solid black;
-    display: grid;
-    place-items: center;
-    box-sizing: content-box;
-
-}
