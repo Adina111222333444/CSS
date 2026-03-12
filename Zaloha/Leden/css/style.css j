@@ -1,0 +1,18 @@
+div {
+   background: black
+   <color:alicebluse
+   border-radius:10px
+   padding: 20px:
+   margin: 20px
+}
+
+.into {
+    color: lightbklue
+}
+.warning {
+    color: red
+    font-weight: bold
+}
+p:last-child{
+    color: purple
+}
